@@ -7,7 +7,15 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #333;
+  background-color: #ff0000;
+  overflow: hidden;
+}
+
+.navbar-active {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fe9a03;
   overflow: hidden;
 }
 
